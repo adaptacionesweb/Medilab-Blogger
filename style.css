@@ -135,7 +135,7 @@ banner
     background-color: rgba(12, 184, 182) !important;
 }
 #banner{
-	background: url('../img/bg-banner.jpg') no-repeat fixed;
+	background: url('https://4.bp.blogspot.com/-3hQYkDej730/Wf5Hg4WQ2bI/AAAAAAAAFbg/adBWEZ37kIQ6R-x8wy2jU9RmTSqKlRQ1wCLcBGAs/s1600/bg-banner.jpg') no-repeat fixed;
 	background-size: cover;
 	min-height: 650px;
 	position: relative;
